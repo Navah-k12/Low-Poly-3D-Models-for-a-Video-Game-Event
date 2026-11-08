@@ -1,2 +1,6 @@
 *.blend1
 *.blend@
+# solo se suben los modelos y sus texturas
+Backup/
+Captur*/
+*.py
